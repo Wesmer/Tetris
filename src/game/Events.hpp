@@ -1,0 +1,12 @@
+#ifndef E26C6D55_50AC_4DC1_9BCF_0A280C1B5038
+#define E26C6D55_50AC_4DC1_9BCF_0A280C1B5038
+
+#include <cstdint>
+
+enum class Events : int32_t	
+{
+    CREATE_STONE,
+
+};
+
+#endif /* E26C6D55_50AC_4DC1_9BCF_0A280C1B5038 */
